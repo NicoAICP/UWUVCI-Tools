@@ -1,0 +1,1 @@
+These are the tools that have been used in some version of UWUVCI V3. Just because an item is listed in here, doesn't necessarily mean it's currently being used. If you check your Tools folder in UWUVCI V3 what's listed in there is coming from this repo. It's a little weird, but we remove tool requirements as we update and improve things.
